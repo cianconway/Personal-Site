@@ -9,11 +9,12 @@
 title: Cian Conway - Software Engineer
 email: cian.conway@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Software Engineer with a B.Eng. Computer Engineering from 
+  The University of Limerick, currently living in Washington DC 
+  working for Industry Dive in the digital B2B media sector in a 
+  full stack web development role.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://cianconway.tech" # the base hostname & protocol for your site
 twitter_username: cianconway
 github_username:  cianconway
 
