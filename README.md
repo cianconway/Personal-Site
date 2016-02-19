@@ -10,6 +10,7 @@ This folder contains all of the modular pieces of my site. Everything from heade
 reused on different pages.
 
 ### `_layouts`
+The layout of popular pages I reuse throughout the project which contain a lot of the `_includes` above.
 
 ### `_posts`
 This section contains the various posts I will be creating. There is a standard naming convention with these posts which plays a part in
